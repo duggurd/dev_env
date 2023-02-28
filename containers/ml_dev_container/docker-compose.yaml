@@ -1,0 +1,8 @@
+services:
+  ml_dev: 
+    image: ml_python_dev:0.0.4
+    container_name: ml_dev
+    volumes:
+      - .:/workspace
+    stdin_open: true 
+    tty: true

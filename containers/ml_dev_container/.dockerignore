@@ -1,0 +1,6 @@
+.devcontainer
+docker-compose.yaml
+Dockerfile
+README.md
+.git
+__pycache__
