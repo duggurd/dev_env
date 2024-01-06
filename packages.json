@@ -1,43 +1,79 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-02-26T08:20:34.137-00:00",
+	"CreationDate" : "2024-01-06T12:26:18.699-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "9NRWMJP3717K"
+					"PackageIdentifier" : "dbeaver.dbeaver"
 				},
-				{
-					"PackageIdentifier" : "XP8K2L36VP0QMB"
-				},
-				{
-					"PackageIdentifier" : "XP9KHM4BK9FZ7Q"
-				},
-				{
-					"PackageIdentifier": "9NZVDKPMR9RD" 
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
-				"Identifier" : "StoreEdgeFD",
-				"Name" : "msstore",
-				"Type" : "Microsoft.Rest"
-			}
-		},
-		{
-			"Packages" : 
-			[
 				{
 					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "ImageLine.FLStudio"
 				},
 				{
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
+					"PackageIdentifier" : "Kubernetes.kubectl"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "Rustlang.Rustup"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
+				},
+				{
+					"PackageIdentifier" : "junegunn.fzf"
+				},
+				{
+					"PackageIdentifier" : "Neovim.Neovim"
+				},
+				{
+					"PackageIdentifier" : "GitHub.cli"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "GoLang.Go"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS"
+				},
+				{
+					"PackageIdentifier" : "pnpm.pnpm"
+				},
+				{
+					"PackageIdentifier" : "KeePassXCTeam.KeePassXC"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.12"
+				},
+				{
+					"PackageIdentifier" : "Rufus.Rufus"
 				}
 			],
 			"SourceDetails" : 
@@ -49,5 +85,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.4.10173"
+	"WinGetVersion" : "1.6.3482"
 }
